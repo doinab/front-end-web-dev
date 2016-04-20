@@ -1,0 +1,16 @@
+.mypar {
+	background-color: #a0c0f0;
+	padding: 10px;
+}
+
+.navbar {
+	background-color: #90b0e0;
+}
+
+.navbar-default .navbar-brand {
+	color: black;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: black;
+}
